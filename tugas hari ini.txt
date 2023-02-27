@@ -1,0 +1,8 @@
+npmwp 15 digit
+
+node mati
+
+page login buat opsi
+-form input login
+-memubat opsi koneksi pada endpoint di reactnative
+-jika tidak bisa masuk koneksi A maka masuk koneksi B

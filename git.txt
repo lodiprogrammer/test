@@ -1,0 +1,18 @@
+pull request
+-git clone ~url
+-git status
+
+comit
+git . add
+git comit -m "komen"
+git remote -v
+git push origin master
+
+
+first comit
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lodiprogrammer/test.git
+git push -u origin main

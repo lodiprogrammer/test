@@ -1,0 +1,34 @@
+-Jam kerja Senin - Jumat (08.00 - 17.00) Sabtu (08.00 - 15.00). Pulang kantor pasti ontime
+-Anda akan bertugas sbg IT Full STACK yang akan dimentor dari vendor EXTERNAL 
+-Anda akan bertugas sbg juga sebagai troubleshoot hardware,software
+-Untuk salary di awal adalah UMR JAKARTA ++ dan tergantung dari hasil 
+
+pwd wifi Iot : iotunico@123
+ 
+repo ums adit
+https://github.com/AdityaPKusnadi/umstractors
+
+page login buat opsi
+-form input login
+-memubat opsi koneksi pada endpoint di reactnative
+-jika tidak bisa masuk koneksi A maka masuk koneksi B
+
+#2/23/2023
+Selamat sore pak Heri... Berikut Laporan progress saya hari ini:
+1.instalasi react native
+2.membuat form input dan login menggunakan react
+
+
+#2/23/2023
+Selamat sore pak Heri... Berikut Laporan progress saya hari ini:
+1. Belajar dan mengenali CodeIgniter(on progress)
+2. mempelajari struktur program dan lingkungan CodeIgniter(done)
+3. mempelajari Route,Controller,View dan Model CodeIgniter (done)
+4. mempelajari Insert dan validasi data CodeIgniter(on progress)
+
+#2/22/2023
+Selamat sore pak Heri... Berikut Laporan progress saya hari ini:
+1. Instalasi app yang di butuhkan pada CodeIgniter(done)
+2. Belajar dan mengenali CodeIgniter(on progress)
+3. membuat laporan trouble hari ini dari program ums(done)
+
